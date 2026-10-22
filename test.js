@@ -6,3 +6,5 @@ if (add(2, 3) !== 5) {
  console.log("Test successful!");
  process.exit(0);
 }
+
+//TEST
